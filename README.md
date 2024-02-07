@@ -19,7 +19,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
-![Postgresql](https://img.shields.io/badge/-postgresql-05122A?style=flat&logo=postgresql)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=Postgresql)&nbsp;
 ![Django](https://img.shields.io/badge/-django-05122A?style=flat&logo=django)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
