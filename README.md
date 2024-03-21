@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Django+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Bacck-end developer
+- 🏢 I'm a Back-end developer
 - 👨‍💻 As a Computer Engineer, I'm constantly learning to improve my skills.
 
 
