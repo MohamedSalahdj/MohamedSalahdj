@@ -11,6 +11,11 @@
 - 🏢 I'm a Back-end developer
 - 👨‍💻 As a Computer Engineer, I'm constantly learning to improve my skills.
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MohamedSalahdj}/count.svg" /></p> 
+<br>
+</div>
 
 ### Connect with Me :
 
