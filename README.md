@@ -12,13 +12,12 @@
 - 👨‍💻 As a Computer Engineer, I'm constantly learning to improve my skills.
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MohamedSalahdj}/count.svg" /></p> 
-<br>
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MohamedSalahdj}/count.svg" style="filter: invert(94%) sepia(1%) saturate(0%) hue-rotate(142deg) brightness(112%) contrast(103%);" /></p>
+  <br>
 </div>
-
 ### Connect with Me :
-
 
 <a href="https://www.linkedin.com/in/mohamed-salah-175b92274/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Salah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=#fff"/></a>
 
